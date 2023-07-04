@@ -32,4 +32,4 @@ The project is divided into six distinct parts, each serving a specific purpose:
 * Extracts meaningful insights from the predictive models and their outcomes.  
 
 
-Parts (1)-(3) were completed in accordance with the instructor's requirements, while parts (4)-(6) were undertaken based on personal interest, aiming to augment the analysis and enrich the overall findings.
+Parts (1)-(3) were completed in accordance with the instructor's requirements, while parts (4)-(6) were undertaken out of personal interest, aiming to augment the analysis and enrich the overall findings.
