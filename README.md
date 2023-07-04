@@ -2,7 +2,7 @@
 This project is my homework for CIS 9660 - Data Mining for Business Analytics.  
 The goal of this project is to utilize the energy efficiency dataset from the UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/242/energy+efficiency) and develop machine learning models that can accurately predict the heating and cooling loads of residential buildings.
 
-The project is divided into six distinct parts, each serving a specific purpose:  
+The project consists of 6 parts:  
 
 **(1) Introduction:**  
 * Provides an overview of the project and its objectives.  
