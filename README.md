@@ -5,7 +5,7 @@ The goal of this project is to utilize the energy efficiency dataset from the UC
 The project consists of 6 parts:  
 
 **(1) Introduction:**  
-* Provides an overview of the project and its objectives.  
+* Provides an overview of the dataset and the project objectives.  
 
 
 **(2) Exploratory Data Analysis and Feature Engineering:**  
