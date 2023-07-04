@@ -24,7 +24,7 @@ The project consists of 6 parts:
 
     
 **(5) Model Validation:**  
-*  Validates the chosen model using an independent dataset to assess its generalization capability.
+* Validates the chosen model to assess its generalization capability.
 * Evaluates the performance of the selected model based on specific metrics.  
 
 
