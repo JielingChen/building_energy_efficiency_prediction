@@ -2,7 +2,7 @@
 This project is my homework for CIS 9660 - Data Mining for Business Analytics.  
 The goal of this project is to utilize the energy efficiency dataset from the UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/242/energy+efficiency) and develop machine learning models that can accurately predict the heating and cooling loads of residential buildings.
 
-The project consists of 6 parts:  
+The project consists of 5 parts:  
 
 **(1) Introduction:**  
 * Provides an overview of the dataset and the project objectives.  
@@ -18,18 +18,13 @@ The project consists of 6 parts:
 * Assesses the accuracy and effectiveness of the linear regression model.  
 
     
-**(4) Model Selection:**  
+**(4) Model Selection and Validation:**  
 * Utilizes leave-one-out cross-validation technique to evaluate and select the most suitable model.
 * Explores various machine learning algorithms and compares their performance.  
 
-    
-**(5) Model Validation:**  
-* Validates the chosen model to assess its generalization capability.
-* Evaluates the performance of the selected model based on specific metrics.  
 
-
-**(6) Business Insights:**  
+**(5) Business Insights:**  
 * Extracts meaningful insights from the predictive models and their outcomes.  
 
 
-Parts (1)-(3) were completed in accordance with the instructor's requirements, while parts (4)-(6) were undertaken out of personal interest, aiming to augment the analysis and enrich the overall findings.
+Parts (1)-(3) were completed in accordance with the instructor's requirements, while parts (4)-(5) were undertaken out of personal interest, aiming to augment the analysis and enrich the overall findings.
